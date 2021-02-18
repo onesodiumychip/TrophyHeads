@@ -2,10 +2,9 @@
 player-skin: true
 rename-enabled: false
 rename-item: 339
-drop-chance: 5
+drop-chance: 100
 death-types:
 - PVP
-- ALL
 items-required:
 - ANY
 - 276
